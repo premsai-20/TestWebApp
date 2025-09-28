@@ -6,6 +6,6 @@
     <title>LOGIN PAGE</title>
 </head>
 <body>
-    login data enter
+    Welcome to the login page ${name}!
 </body>
 </html>
