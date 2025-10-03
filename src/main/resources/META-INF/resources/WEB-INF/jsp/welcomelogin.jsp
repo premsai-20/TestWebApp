@@ -6,8 +6,8 @@
     <title>LOGIN PAGE</title>
 </head>
 <body>
-	<div> Welcome to Main Page</div>
-	<div> Your Name: ${name}</div>
+	
+	<div> Welcome ${name}</div>
 	<div><a href="list-todos">Manage</a> your todos</div>
 </body>
 </html>
