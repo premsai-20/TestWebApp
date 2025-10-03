@@ -41,7 +41,7 @@
 	<script type="text/javascript">
 	$('#targetDate').datepicker({
     	format: 'yyyy-mm-dd'
-	});
+	}); 
 	</script>
 </body>
 </html>
